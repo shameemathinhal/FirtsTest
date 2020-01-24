@@ -17,6 +17,10 @@ Junit test is java testing framework
 
 Example program validate positive number
 
+1. Right-click inside the class want  to test
+2. Choose to go to ->test android studio process
+3. Choose test library Junit4
+
 
 
 
